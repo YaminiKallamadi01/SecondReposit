@@ -5,6 +5,11 @@ It is free and open-source.
 They can handle larger projects effi ciently.
 It is 3rd generation of vcs.
 it is written on c programming
+it came on the year 2005.
+Repository in Git is considered as your project folder.
+A repository has all the project-related data.
+It contains the collection of the fi les and also history of changes made to those fi les.
 it came on the year 2005
 In this stage git is only aware of having fi les in the project.
 It will not track these fi les until we commit those fi les.
+
